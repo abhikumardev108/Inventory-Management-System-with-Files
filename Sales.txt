@@ -1,0 +1,4 @@
+Name : abhi, Phone : 876543212, Email : av@gmail.com, Product name : Candy, ID : 4, Quantity : 20, Price : Rs.100, Time : Thu Jul 11 13:01:58 2024
+Name : mona, Phone : 897654321, Email : mona@gmail.com, Product name : Candy, ID : 4, Quantity : 30, Price : Rs.150, Time : Thu Jul 11 13:02:39 2024
+Name : deepak, Phone : 987654321, Email : asfg@gmail.com, Product name : Milky Bar, ID : 2, Quantity : 20, Price : Rs.100, Time : Thu Jul 11 13:03:19 2024
+Name : shubham, Phone : 98765432, Email : shu@gmail.com, Product name : Cake, ID : 3, Quantity : 5, Price : Rs.1500, Time : Thu Jul 11 13:03:49 2024
